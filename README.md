@@ -1,9 +1,64 @@
-# React + Vite
+# 📱 iPhone 15 Website — React Frontend Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and visually appealing **iPhone 15 landing page clone** built using **ReactJS**. This project replicates the clean design, smooth layout, and responsive structure of Apple's product landing pages.
 
-Currently, two official plugins are available:
+🔗 **Live Demo:** https://iphone15-web-liard.vercel.app/  
+📂 **GitHub Repository:** https://github.com/ctrl-adii1522/Iphone15_Web  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-"# Iphone15_Web" 
+---
+
+## 🚀 Features
+
+- ⚡ Fully responsive design (Mobile, Tablet, Desktop)
+- 🎨 Modern and clean Apple-style UI
+- 🧩 Component-based React architecture
+- 🚀 Fast performance and optimized rendering
+- 📱 Product showcase sections
+- 💻 Production-ready frontend structure
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend:** React.js
+- **Styling:** CSS3
+- **Language:** JavaScript (ES6+)
+- **Deployment:** Vercel
+- **Version Control:** Git & GitHub
+
+---
+
+## 📸 Preview
+
+![Preview](https://iphone15-web-liard.vercel.app/)
+
+---
+
+🌐 Deployment
+
+This project is deployed using Vercel.
+
+Deployment steps:
+
+Push project to GitHub
+
+Connect GitHub repository to Vercel
+
+Deploy automatically
+
+Live Link:
+https://iphone15-web-liard.vercel.app/
+
+## 📦 Installation & Setup
+
+Follow these steps to run the project locally:
+
+### 1️⃣ Clone the repository
+
+```bash
+git clone https://github.com/ctrl-adii1522/Iphone15_Web.git
+cd Iphone15_Web
+npm install
+npm start
+npm run build
+
