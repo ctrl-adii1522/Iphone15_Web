@@ -28,12 +28,6 @@ A modern and visually appealing **iPhone 15 landing page clone** built using **R
 
 ---
 
-## 📸 Preview
-
-![Preview](https://iphone15-web-liard.vercel.app/)
-
----
-
 🌐 Deployment
 
 This project is deployed using Vercel.
